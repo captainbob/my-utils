@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<servelet>
+	<servelet-item>
+		<url>login</url>
+		<name>server.LoginServer</name>
+	</servelet-item>
+	<servelet-item>
+		<url>register</url>
+		<name>server.Register</name>
+	</servelet-item>
+	<servelet-item>
+		<url>index</url>
+		<name>server.IndexServer</name>
+	</servelet-item>
+</servelet>

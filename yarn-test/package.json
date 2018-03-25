@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "aa",
+  "devDependencies": {
+    "chalk": "^2.0.1"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
